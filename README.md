@@ -426,18 +426,6 @@ O projeto pode receber diversas melhorias e expansões futuras, tais como:
 
 ---
 
-# Repositório Acadêmico
-
-Este projeto foi desenvolvido exclusivamente para fins educacionais e acadêmicos na disciplina **Objetos Inteligentes Conectados** da **Universidade Presbiteriana Mackenzie**.
-
-O repositório disponibiliza o código-fonte completo do sistema, permitindo sua reprodução, estudo e futuras melhorias por outros estudantes e pesquisadores interessados em aplicações de Internet das Coisas.
-
-Repositório:
-
-https://github.com/heit0rz/esp32-iot-environment-monitor
-
----
-
 # Licença
 
 MIT License.
